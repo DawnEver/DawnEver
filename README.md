@@ -1,6 +1,6 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-    <img src= https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/icon.jpg/>
+    <img src= https://gihub.com/DawnEver/DawnEver/assets/images/icon.jpg/>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!&center=true&size=27" />
 </h1>
 <!-- profile logo 个人资料徽标 -->
