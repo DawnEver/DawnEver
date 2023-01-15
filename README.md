@@ -1,15 +1,8 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-    <img src= />
-  </a>
+    <img src= https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/icon.jpg/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!&center=true&size=27" />
 </h1>
-<h1 align="center">
-    <img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/icon.jpg" />
-  </a>
-</h1>
-
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/coding.gif" /></div><br>
-
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://www.zhihu.com/people/ming-ji-zhao-yang"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
