@@ -1,7 +1,10 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!&center=true&size=27" />
+    <img src= />
+  </a>
+</h1>
+<h1 align="center">
+    <img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/icon.jpg" />
   </a>
 </h1>
 
