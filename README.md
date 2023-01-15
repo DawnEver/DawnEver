@@ -63,8 +63,7 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 </div>
 
-<!-- 仅仅是一张图片 just img-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/icon.png" /></div>
+
 
 <!-- 3D 代码贡献图 profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/profile-3d-contrib/profile-night-rainbow.svg" /></div>
@@ -73,9 +72,7 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/left.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DawnEver&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/right.png" />
 </div><br>
 
 <!-- metrics 基础资料 -->
