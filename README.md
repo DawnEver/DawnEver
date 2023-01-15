@@ -67,7 +67,7 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 <!-- 3D 代码贡献图 profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/profile-3d-contrib/profile-night-rainbow.svg" /></div>
-
+<!-- 
 <h1 align="center">🚀 Actions </h1>
 
 <!-- 连续提交代码天数记录 -->
@@ -77,14 +77,6 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 <!-- metrics 基础资料 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/github-metrics/base.svg" /></div><br>
-
-<!-- My Blog 博客首页 -->
-<div align="center" >
-  <a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/github-metrics/pagespeed.screenshot.svg" /></a>
-</div>
-
-<!-- Quotes 名人名言 -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 
 <!-- Awesome repo 比较好的仓库-->
 <div align="center">
@@ -178,6 +170,6 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
     <td><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/github-metrics/followup.indepth.svg" alt="plugin metrics" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/github-metrics/achievements.compact.svg" alt="plugin metrics" /></td>
   </tr>
-</table>
+</table> -->
 
 </div>
