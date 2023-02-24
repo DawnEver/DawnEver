@@ -1,58 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://linxu.hi-motor.site/test/</loc>
-    <lastmod>2023-02-23T23:57:52+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/about/</loc>
-    <lastmod>2023-02-06T14:57:28+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/tags/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/life/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/tags/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/read/</loc>
-    <lastmod>2022-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/tags/read/</loc>
-    <lastmod>2022-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/read/read/</loc>
-    <lastmod>2022-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/tags/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/posts/tech/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/links/</loc>
-    <lastmod>2021-11-06T15:15:53+08:00</lastmod>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/archives/</loc>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/search/</loc>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/categories/</loc>
-  </url><url>
-    <loc>https://linxu.hi-motor.site/series/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://linxu.hi-motor.site/ch/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://linxu.hi-motor.site/en/sitemap.xml</loc>
+    
+      <lastmod>2023-02-24T15:14:27+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
