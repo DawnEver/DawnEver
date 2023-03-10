@@ -6,7 +6,16 @@
     <description>Recent content on Linxu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 15:14:27 +0800</lastBuildDate><atom:link href="https://linxu.hi-motor.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 23:12:03 +0800</lastBuildDate><atom:link href="https://linxu.hi-motor.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macos_battery_charge_limit</title>
+      <link>https://linxu.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</link>
+      <pubDate>Fri, 10 Mar 2023 23:12:03 +0800</pubDate>
+      
+      <guid>https://linxu.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</guid>
+      <description>如何优雅地限制 MacOS 电池充电上限 设备 MacOS Big Sur 11.7.4,Macbook pro 2019(intel) 常见解法 smcFanControl 为了限制 Macos充电上限，中文互联网上常见的方法往往是借助于开源工具 smcFanControl ,举例CSDN_macbook设置充电上限 1.确保安装了Xcode commandline tools 2.git clone https://github.com/hholtmann/smcFanControl.git 3.cd smcFanControl/smc-command 4.make 5.sudo ./smc -k BCLM -w 4D（注：最后的值为充电限制的16进制值，必须小于64） 6../smc -k BCLM</description>
+    </item>
+    
     <item>
       <title>Desktop_here</title>
       <link>https://linxu.hi-motor.site/en/posts/tech/desktop_here/</link>
