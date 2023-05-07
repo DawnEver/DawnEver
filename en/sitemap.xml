@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://linxu.hi-motor.site/en/posts/tech/</loc>
-    <lastmod>2023-05-06T23:23:50+08:00</lastmod>
+    <lastmod>2023-05-07T14:56:23+08:00</lastmod>
   </url><url>
     <loc>https://linxu.hi-motor.site/en/posts/</loc>
-    <lastmod>2023-05-06T23:23:50+08:00</lastmod>
+    <lastmod>2023-05-07T14:56:23+08:00</lastmod>
   </url><url>
-    <loc>https://linxu.hi-motor.site/en/posts/tech/draw_winding_diagram/</loc>
-    <lastmod>2023-05-06T23:23:50+08:00</lastmod>
+    <loc>https://linxu.hi-motor.site/en/posts/tech/git_operations/</loc>
+    <lastmod>2023-05-07T14:56:23+08:00</lastmod>
   </url><url>
     <loc>https://linxu.hi-motor.site/en/</loc>
-    <lastmod>2023-05-06T23:23:50+08:00</lastmod>
+    <lastmod>2023-05-07T14:56:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
@@ -23,6 +23,9 @@
                 hreflang="en"
                 href="https://linxu.hi-motor.site/en/"
                 />
+  </url><url>
+    <loc>https://linxu.hi-motor.site/en/posts/tech/draw_winding_diagram/</loc>
+    <lastmod>2023-05-06T23:23:50+08:00</lastmod>
   </url><url>
     <loc>https://linxu.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</loc>
     <lastmod>2023-03-10T23:12:03+08:00</lastmod>

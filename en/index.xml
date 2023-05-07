@@ -6,7 +6,16 @@
     <description>Recent content on Linxu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 23:23:50 +0800</lastBuildDate><atom:link href="https://linxu.hi-motor.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 14:56:23 +0800</lastBuildDate><atom:link href="https://linxu.hi-motor.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git_operations</title>
+      <link>https://linxu.hi-motor.site/en/posts/tech/git_operations/</link>
+      <pubDate>Sun, 07 May 2023 14:56:23 +0800</pubDate>
+      
+      <guid>https://linxu.hi-motor.site/en/posts/tech/git_operations/</guid>
+      <description>Git基本操作 开始 这里并不是一个严谨全面的git教程，只是一些经验分享。 1.下载git 2.配置个人信息 git config --global user.name &amp;quot;username&amp;quot; git config --global user.email &amp;quot;email&amp;quot; 只要改一次，引号里的东西不用真实信息，在git log里面显示，让其他人知道是你就行 工作流程 每次修改前 先把服务器代码拉到本地 拉取 第一种 git fetch #将远程代码拉至本地 git</description>
+    </item>
+    
     <item>
       <title>draw_winding_diagram</title>
       <link>https://linxu.hi-motor.site/en/posts/tech/draw_winding_diagram/</link>
