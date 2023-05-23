@@ -1,6 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-    <img src= https://gihub.com/DawnEver/DawnEver/assets/images/icon.jpg/>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!&center=true&size=27" />
 </h1>
 <!-- profile logo 个人资料徽标 -->
@@ -9,8 +8,6 @@
 <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=DawnEver" alt="访客统计" /></div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver@snake/github-contribution-grid-snake-dark.svg" /></div>
 
 #  😎	
 <!-- Self introduction 自我介绍 -->
@@ -37,12 +34,10 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 🧰 Recent Tools
 
 &emsp;&emsp; 
-![Mac]()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Vim]()
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
@@ -51,7 +46,6 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 <!-- 编程工具图标 programming tool icon -->
 <div align="center">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/github.webp">
