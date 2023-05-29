@@ -1,1 +1,1 @@
-[Linxu's Blog](https://linxu.hi-motor.site)
+[Bennett's Blog](https://bennett.hi-motor.site)

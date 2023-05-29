@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👨🏻‍💻 技术 on Linxu&#39;s Blog</title>
-    <link>https://linxu.hi-motor.site/en/posts/tech/</link>
-    <description>Recent content in 👨🏻‍💻 技术 on Linxu&#39;s Blog</description>
+    <title>👨🏻‍💻 技术 on Bennett&#39;s Blog</title>
+    <link>https://bennett.hi-motor.site/en/posts/tech/</link>
+    <description>Recent content in 👨🏻‍💻 技术 on Bennett&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 14:56:23 +0800</lastBuildDate><atom:link href="https://linxu.hi-motor.site/en/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 14:56:23 +0800</lastBuildDate><atom:link href="https://bennett.hi-motor.site/en/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git_operations</title>
-      <link>https://linxu.hi-motor.site/en/posts/tech/git_operations/</link>
+      <link>https://bennett.hi-motor.site/en/posts/tech/git_operations/</link>
       <pubDate>Sun, 07 May 2023 14:56:23 +0800</pubDate>
       
-      <guid>https://linxu.hi-motor.site/en/posts/tech/git_operations/</guid>
+      <guid>https://bennett.hi-motor.site/en/posts/tech/git_operations/</guid>
       <description>Git基本操作 开始 这里并不是一个严谨全面的git教程，只是一些经验分享。 1.下载git 2.配置个人信息 git config --global user.name &amp;quot;username&amp;quot; git config --global user.email &amp;quot;email&amp;quot; 只要改一次，引号里的东西不用真实信息，在git log里面显示，让其他人知道是你就行 工作流程 每次修改前 先把服务器代码拉到本地 拉取 第一种 git fetch #将远程代码拉至本地 git</description>
     </item>
     
     <item>
       <title>draw_winding_diagram</title>
-      <link>https://linxu.hi-motor.site/en/posts/tech/draw_winding_diagram/</link>
+      <link>https://bennett.hi-motor.site/en/posts/tech/draw_winding_diagram/</link>
       <pubDate>Sat, 06 May 2023 23:23:50 +0800</pubDate>
       
-      <guid>https://linxu.hi-motor.site/en/posts/tech/draw_winding_diagram/</guid>
+      <guid>https://bennett.hi-motor.site/en/posts/tech/draw_winding_diagram/</guid>
       <description>如何用Python绘制绕组连接图-上 电光火石 今天（5月6号）电机学课上，老师正在讲交流电机绕组。 笔者参与开发的电机设计优化软件中，绕组连接图模块还是沉疴未除。 前几个月里，这一部分的debug工作因为各种原因被搁置。 不知不觉间，创意的火花被点燃，“重构这个模块”的想法出现在我脑海里</description>
     </item>
     
     <item>
       <title>Macos_battery_charge_limit</title>
-      <link>https://linxu.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</link>
+      <link>https://bennett.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</link>
       <pubDate>Fri, 10 Mar 2023 23:12:03 +0800</pubDate>
       
-      <guid>https://linxu.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</guid>
+      <guid>https://bennett.hi-motor.site/en/posts/tech/macos_battery_charge_limit/</guid>
       <description>如何优雅地限制 MacOS 电池充电上限 设备 MacOS Big Sur 11.7.4,Macbook pro 2019(intel) 常见解法 smcFanControl 为了限制 Macos充电上限，中文互联网上常见的方法往往是借助于开源工具 smcFanControl ,举例CSDN_macbook设置充电上限 1.确保安装了Xcode commandline tools 2.git clone https://github.com/hholtmann/smcFanControl.git 3.cd smcFanControl/smc-command 4.make 5.sudo ./smc -k BCLM -w 4D（注：最后的值为充电限制的16进制值，必须小于64） 6../smc -k BCLM</description>
     </item>
     
     <item>
       <title>Desktop_here</title>
-      <link>https://linxu.hi-motor.site/en/posts/tech/desktop_here/</link>
+      <link>https://bennett.hi-motor.site/en/posts/tech/desktop_here/</link>
       <pubDate>Fri, 24 Feb 2023 15:14:27 +0800</pubDate>
       
-      <guid>https://linxu.hi-motor.site/en/posts/tech/desktop_here/</guid>
+      <guid>https://bennett.hi-motor.site/en/posts/tech/desktop_here/</guid>
       <description></description>
     </item>
     

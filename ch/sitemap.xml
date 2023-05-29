@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://linxu.hi-motor.site/ch/categories/</loc>
+    <loc>https://bennett.hi-motor.site/ch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://linxu.hi-motor.site/en/categories/"
+                href="https://bennett.hi-motor.site/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://linxu.hi-motor.site/ch/categories/"
+                href="https://bennett.hi-motor.site/ch/"
                 />
   </url><url>
-    <loc>https://linxu.hi-motor.site/ch/</loc>
+    <loc>https://bennett.hi-motor.site/ch/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://linxu.hi-motor.site/en/"
+                href="https://bennett.hi-motor.site/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://linxu.hi-motor.site/ch/"
+                href="https://bennett.hi-motor.site/ch/categories/"
                 />
   </url><url>
-    <loc>https://linxu.hi-motor.site/ch/series/</loc>
+    <loc>https://bennett.hi-motor.site/ch/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://linxu.hi-motor.site/en/series/"
+                href="https://bennett.hi-motor.site/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://linxu.hi-motor.site/ch/series/"
+                href="https://bennett.hi-motor.site/ch/series/"
                 />
   </url><url>
-    <loc>https://linxu.hi-motor.site/ch/tags/</loc>
+    <loc>https://bennett.hi-motor.site/ch/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://linxu.hi-motor.site/en/tags/"
+                href="https://bennett.hi-motor.site/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://linxu.hi-motor.site/ch/tags/"
+                href="https://bennett.hi-motor.site/ch/tags/"
                 />
   </url>
 </urlset>
