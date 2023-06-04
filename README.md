@@ -5,8 +5,6 @@
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://www.zhihu.com/people/ming-ji-zhao-yang"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
-<!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=DawnEver" alt="访客统计" /></div>
 
 
 #  😎	
@@ -60,3 +58,5 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 
 </div>
+
+<img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
