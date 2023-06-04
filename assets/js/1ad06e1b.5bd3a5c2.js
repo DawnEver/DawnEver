@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8999],{7102:function(s){s.exports=JSON.parse('{"label":"motor-design","permalink":"/tags/motor-design","allTagsPath":"/tags","count":1}')}}]);
