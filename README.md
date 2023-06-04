@@ -42,14 +42,6 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 </div>
 
-<!-- 编程工具图标 programming tool icon -->
-<div align="center">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/github.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/assets/images/node.webp">
-
-</div>
 
 
 
@@ -57,6 +49,7 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/profile-3d-contrib/profile-night-rainbow.svg" /></div>
 
 
-</div>
 
+<div align="center" >
 <img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
+</div>
