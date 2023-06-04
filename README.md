@@ -45,10 +45,6 @@ An undergraduate from ***School of Electrical and Electronic Engineering,HUST***
 
 
 
-<!-- 3D 代码贡献图 profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/DawnEver/DawnEver/profile-3d-contrib/profile-night-rainbow.svg" /></div>
-
-
 
 <div align="center" >
 <img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
