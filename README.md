@@ -1,51 +1,56 @@
-<!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好，我是Bennett&center=true&size=30" />
 </h1>
-<!-- profile logo 个人资料徽标 -->
-<div align="center">
-  <a href="https://www.zhihu.com/people/ming-ji-zhao-yang"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
+
+### 我
+<p>一名软硬兼修的电气工程师<br/>
+本科就读于华中科技大学电气与电子工程学院<br/>
+</p>
+<p>
+目前主要的学习方向是 电机设计+计算机科学<br/>
+然而兴趣广泛到可以用滥情来形容：<br/>
+</p>
+<p>
+诗书成少年<br/>
+曾经文理兼修的倔强梦想，<br/>
+仍抱残守缺地拥有着<br/>
+不放弃在各种媒介中对美的追寻，<br/>
+也时刻自省以 政治经济学批判式的冷峻眼光<br/>
+</p>
+<p>
+热爱不止，折腾不休<br/>
+极客文化至死不渝<br/>
+
+</p>
 
 
-#  😎	
-<!-- Self introduction 自我介绍 -->
-An undergraduate from ***School of Electrical and Electronic Engineering,HUST***.
+### 🛠 技术栈
 
-<!-- 技能徽章 skill badge -->
-<div align="center" >
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
+![C](https://img.shields.io/badge/c-333333?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c) 
+![shell_script](https://img.shields.io/badge/-shell_script-333333?style=flat&logo=shell) 
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab) 
+![Ansys](https://img.shields.io/badge/-Ansys-333333?style=flat&logo=ansys) 
+![Femm](https://img.shields.io/badge/-Femm-333333?style=flat&logo=femm) 
 
-💪 Technology Stack
-
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-
-🧰 Recent Tools
-
-&emsp;&emsp; 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
+![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt) 
 
 
+![Mac](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple) 
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) 
+![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google) 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) 
 
 
-
-<div align="center" >
-<img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
-</div>
+<a href="https://github.com/DawnEver">
+  <img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
+</a>
