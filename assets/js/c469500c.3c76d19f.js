@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[22],{2252:function(e){e.exports=JSON.parse('{"permalink":"/tags/\u8bd7\u6b4c","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Bennett\u7684\u4e2a\u4eba\u535a\u5ba2","blogTitle":"Blog"}')}}]);
