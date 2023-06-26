@@ -4,8 +4,8 @@
   <ShortName>Bennett的小站</ShortName>
   <Description>Search Bennett的小站</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://bennett.hi-motor.site/img/icon/icon-color.svg</Image>
-  <Url type="text/html" method="get" template="https://bennett.hi-motor.site/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://bennett.hi-motor.site/opensearch.xml" />
-  <moz:SearchForm>https://bennett.hi-motor.site/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://bmy.asia/img/icon/icon-color.svg</Image>
+  <Url type="text/html" method="get" template="https://bmy.asia/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://bmy.asia/opensearch.xml" />
+  <moz:SearchForm>https://bmy.asia/</moz:SearchForm>
 </OpenSearchDescription>

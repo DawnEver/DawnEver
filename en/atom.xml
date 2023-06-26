@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bennett.hi-motor.site/en/</id>
+    <id>https://bmy.asia/en/</id>
     <title>Bennett</title>
     <updated>2023-05-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bennett.hi-motor.site/en/"/>
+    <link rel="alternate" href="https://bmy.asia/en/"/>
     <subtitle>Bennett的小站 Blog</subtitle>
-    <icon>https://bennett.hi-motor.site/en/img/icon/icon-color.svg</icon>
-    <rights>Copyright © 2023 Bennett Built with Docusaurus.</rights>
+    <icon>https://bmy.asia/en/img/icon/icon-color.svg</icon>
+    <rights>Copyright © 2023 Bennett Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;苏ICP备2023020140号-1&lt;/a&gt;&lt;/p&gt;</rights>
     <entry>
         <title type="html"><![CDATA[Git基本操作]]></title>
-        <id>https://bennett.hi-motor.site/en/Git_operations</id>
-        <link href="https://bennett.hi-motor.site/en/Git_operations"/>
+        <id>https://bmy.asia/en/Git_operations</id>
+        <link href="https://bmy.asia/en/Git_operations"/>
         <updated>2023-05-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[一些git基本操作]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="开始">开始<a href="#开始" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>这里并不是一个严谨全面的git教程，只是一些经验分享。</p><p>1.下载<a href="https://git-scm.com/download" target="_blank" rel="noopener noreferrer">git</a></p><p>2.配置个人信息</p><p><code>git config --global user.name  "username"  </code></p><p><code>git config --global user.email  "email"</code></p><p>只要改一次，引号里的东西不用真实信息，在git log里面显示，让其他人知道是你就行</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="工作流程">工作流程<a href="#工作流程" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p><strong>每次修改前</strong>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如何用Python绘制绕组连接图-上]]></title>
-        <id>https://bennett.hi-motor.site/en/How-to-draw-winding-connection-diagram-1</id>
-        <link href="https://bennett.hi-motor.site/en/How-to-draw-winding-connection-diagram-1"/>
+        <id>https://bmy.asia/en/How-to-draw-winding-connection-diagram-1</id>
+        <link href="https://bmy.asia/en/How-to-draw-winding-connection-diagram-1"/>
         <updated>2023-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[使用 Python 开发的绕组连接图绘制模块]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="电光火石">电光火石<a href="#电光火石" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>今天（5月6号）电机学课上，老师正在讲交流电机绕组。</p><p>笔者参与开发的电机设计优化软件中，绕组连接图模块还是沉疴未除。</p><p>前几个月里，这一部分的debug工作因为各种原因被搁置。</p><p>不知不觉间，创意的火花被点燃，“重构这个模块”的想法出现在我脑海里。</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="前情提要">前情提要<a href="#前情提要" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>在商业电机设计软件中，绕组分析模块绕组链接图效果是这样的。</p><p><img loading="lazy" alt="maxwellWinding" src="/en/assets/images/maxwellWinding-45301e691232d74acf0ecc140f0340b1.png" width="752" height="498" class="img_ev3q"></p><p>笔者此前的绕组绘制模块主要参考了 <a href="https://github.com/horychen" target="_blank" rel="noopener noreferrer">陈嘉豪</a> 在 <a href="https://github.com/horychen/ACMOP" target="_blank" rel="noopener noreferrer">ACMOP</a> 中的绕组分析部分。</p><p>ACMOP（Alternating Current Machine Optimization Project），是一个比较完善的电机设计优化项目。在绕组模块，陈主要使用了 python 的 pycairo 库，提供了包括槽电势星型图、绕组链接图等等全流程的绕组分析。</p><p>总体评价，陈是笔者暂时无法企及的大佬。但是，针对笔者需求，陈的模块存在一些问题。</p><p>1.在笔者的项目中，只需要绘制一张绕组连接图，但是 ACMOP 提供的绕组分析工具太繁复，太“重”。</p><p>2.ACMOP 在一些细节上存在问题，如绘制单层绕组（下图）。</p><p><img loading="lazy" alt="ErrorDiagram" src="/en/assets/images/ErrorDiagram-262c04729f652c4d158b4d8be95c5d21.png" width="2000" height="1000" class="img_ev3q"></p><p>3.作为一个有追求的 Coder，笔者觉得 ACMOP 这一部分的代码逻辑走了一些弯路。陷入很多不必要的分类讨论和判断。尤其是画布边缘的端部绕组连接，这一部分在下面介绍笔者的思路时候会详细阐述。</p><blockquote><p>由于思路的形成已经在好久之前，笔者懒得一点一点翻 ACMOP 的代码了，读者可以参考陈在b站上的思路讲解，自行体会。<a href="https://b23.tv/GsobLk9" target="_blank" rel="noopener noreferrer">ACMOP-番外1：绕组接线图之Python自动绘制 | 矢量制图库pycairo-哔哩哔哩</a> Hurry Chen大佬还是很厉害的。</p></blockquote><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="漏掉的电机学知识一些程序技巧">漏掉的电机学知识&amp;一些程序技巧<a href="#漏掉的电机学知识一些程序技巧" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>漏掉的电机学知识。。。</p><p>那就漏掉吧(bushi)。</p><p>这一part主要讲讲在用程序实现绘制绕组链接图中的几个比较重要的想法。</p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="初始化和它的自变量s">初始化和它的自变量s<a href="#初始化和它的自变量s" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3><ul><li>Z   定子槽数</li><li>tou 极距</li><li>y1  节距</li><li>n   绕组层数  单层/双层</li><li>a   并联支路数</li><li>N   绕组匝数  单匝/双匝</li></ul><p>过程中，笔者计算得出每极每相槽数（Number of slots per pole per phase），记为 spppp。（虽然可能 s4p 会简洁一点，但是笔者喜欢 spppp 这个略带喜感的变量名）</p><p>值得注意的是，其中并没有极对数、电角度这些重要电机参数。其实笔者变量的选择是有考量的。
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如何优雅地限制 MacOS 电池充电上限]]></title>
-        <id>https://bennett.hi-motor.site/en/Macos_battery_charge_limit</id>
-        <link href="https://bennett.hi-motor.site/en/Macos_battery_charge_limit"/>
+        <id>https://bmy.asia/en/Macos_battery_charge_limit</id>
+        <link href="https://bmy.asia/en/Macos_battery_charge_limit"/>
         <updated>2023-03-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[基于 smcFanControl，简单的]]></summary>
         <content type="html"><![CDATA[<hr><p><strong><em>设备 MacOS Big Sur 11.7.4,Macbook pro 2019(intel)</em></strong></p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="常见解法">常见解法<a href="#常见解法" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="smcfancontrol">smcFanControl<a href="#smcfancontrol" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4><p>为了限制 Macos充电上限，中文互联网上常见的方法往往是借助于开源工具 <strong><a href="https://github.com/hholtmann/smcFanControl" target="_blank" rel="noopener noreferrer">smcFanControl</a></strong> ,举例<a href="https://blog.csdn.net/happyyouli/article/details/115805747" target="_blank" rel="noopener noreferrer">CSDN_macbook设置充电上限</a></p><blockquote><p>1.确保安装了Xcode commandline tools
@@ -78,8 +78,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[如何让桌面映射到任何一个文件夹]]></title>
-        <id>https://bennett.hi-motor.site/en/desktop-here</id>
-        <link href="https://bennett.hi-motor.site/en/desktop-here"/>
+        <id>https://bmy.asia/en/desktop-here</id>
+        <link href="https://bmy.asia/en/desktop-here"/>
         <updated>2023-02-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[基于软链接，使用 shell 编写的桌面文件夹映射工具]]></summary>
         <author>
@@ -92,8 +92,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[痂-4]]></title>
-        <id>https://bennett.hi-motor.site/en/Scabbing-4</id>
-        <link href="https://bennett.hi-motor.site/en/Scabbing-4"/>
+        <id>https://bmy.asia/en/Scabbing-4</id>
+        <link href="https://bmy.asia/en/Scabbing-4"/>
         <updated>2022-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[林许和魏涉的纯爱故事]]></summary>
         <content type="html"><![CDATA[<hr><p>魏涉又被班主任约谈了，大概是为了最近的联考。<br>
@@ -179,8 +179,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[一篇无关紧要的悼文]]></title>
-        <id>https://bennett.hi-motor.site/en/Miss_shared_e-bike</id>
-        <link href="https://bennett.hi-motor.site/en/Miss_shared_e-bike"/>
+        <id>https://bmy.asia/en/Miss_shared_e-bike</id>
+        <link href="https://bmy.asia/en/Miss_shared_e-bike"/>
         <updated>2021-12-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[关于某学校的电动车离奇消失事件]]></summary>
         <content type="html"><![CDATA[<hr><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="零">零<a href="#零" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3><p>她的离开还是上个礼拜日的事情，校保卫处发的讣告今天才收到。<br>
@@ -226,8 +226,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[痂-3]]></title>
-        <id>https://bennett.hi-motor.site/en/Scabbing-3</id>
-        <link href="https://bennett.hi-motor.site/en/Scabbing-3"/>
+        <id>https://bmy.asia/en/Scabbing-3</id>
+        <link href="https://bmy.asia/en/Scabbing-3"/>
         <updated>2021-12-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[林许和魏涉的纯爱故事]]></summary>
         <content type="html"><![CDATA[<hr><p>林许有个癖好，每一页稿纸都要对折地严丝合缝。<br>
@@ -302,8 +302,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[痂-2]]></title>
-        <id>https://bennett.hi-motor.site/en/Scabbing-2</id>
-        <link href="https://bennett.hi-motor.site/en/Scabbing-2"/>
+        <id>https://bmy.asia/en/Scabbing-2</id>
+        <link href="https://bmy.asia/en/Scabbing-2"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[林许和魏涉的纯爱故事]]></summary>
         <content type="html"><![CDATA[<hr><p>“我怕沦为与父亲一样的平庸之辈。<br>
@@ -371,8 +371,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[仰望着的]]></title>
-        <id>https://bennett.hi-motor.site/en/Look_up</id>
-        <link href="https://bennett.hi-motor.site/en/Look_up"/>
+        <id>https://bmy.asia/en/Look_up</id>
+        <link href="https://bmy.asia/en/Look_up"/>
         <updated>2021-09-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[关于某学校的电动车离奇消失事件]]></summary>
         <content type="html"><![CDATA[<hr><p>感谢学长学姐辛勤为我们种的太阳，军训期间万里无云……</p><p>于是有了这些莫名其妙的句子……</p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1">1<a href="#1" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3><p>躺在地上，<br>
@@ -409,8 +409,8 @@ macbook电量百分比一般会标的高一点，比如设置为4D（77），实
     </entry>
     <entry>
         <title type="html"><![CDATA[痂-1]]></title>
-        <id>https://bennett.hi-motor.site/en/Scabbing-1</id>
-        <link href="https://bennett.hi-motor.site/en/Scabbing-1"/>
+        <id>https://bmy.asia/en/Scabbing-1</id>
+        <link href="https://bmy.asia/en/Scabbing-1"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[林许和魏涉的纯爱故事]]></summary>
         <content type="html"><![CDATA[<hr><p>杏花，春雨，江南…<br>
