@@ -1,34 +1,29 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好，我是Bennett&center=true&size=30" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello I am Bennett&center=true&size=30" />
 </h1>
 
-### 版本
-- zh_CN [简体中文](#我)
-- en [English](./README-en.md)
-
-### 我
-<p>一名软硬兼修的电气工程师<br/>
-本科就读于华中科技大学电气与电子工程学院<br/>
+### I am
+<p>an electrical engineer both in software and hardware<br/>
+and an undergraduate from School of Electrical and Electronic Engineering,HUST.<br/>
 </p>
 <p>
-目前主要的学习方向是 电机设计+计算机科学<br/>
-然而兴趣广泛到可以用滥情来形容：<br/>
+Mainly focus on motor design&computer science,<br/>
+while my interests are very diverse：<br/>
 </p>
 <p>
-诗书成少年<br/>
-曾经文理兼修的倔强梦想，<br/>
-仍抱残守缺地拥有着<br/>
-不放弃在各种媒介中对美的追寻，<br/>
-也时刻自省以 政治经济学批判式的冷峻眼光<br/>
+Poetry and literature,<br/>
+balance of arts and sciences,<br/>
+and I am still hold onto it.<br/>
+In pursuit of beauty in various forms of media,<br/>
+and constantly reflect on things with a critical perspective.<br/>
 </p>
 <p>
-热爱不止，折腾不休<br/>
-极客文化至死不渝<br/>
-
+My passion never wanes,<br/>
+and I will explore geek culture until my end.<br/>
 </p>
 
 
-### 🛠 技术栈
+### 🛠  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
@@ -54,8 +49,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) 
 
+
 <a href="https://github.com/DawnEver">
   <img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
 </a>
 
-### 🌐 [点我了解更多](https://bmy.asia/)
+### 🌐 [Click for more](https://bmy.asia/)
