@@ -31,7 +31,7 @@
 ### 🛠 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
+![Go](https://img.shields.io/badge/go-333333?style=flat&logo=go) 
 ![C](https://img.shields.io/badge/c-333333?style=flat&logo=c) 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c) 
 ![shell_script](https://img.shields.io/badge/-shell_script-333333?style=flat&logo=shell) 
