@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好，我是Bennett&center=true&size=30" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好，我是Benjamin&center=true&size=30" />
 </h1>
 
 ### 版本
