@@ -22,6 +22,9 @@ My passion never wanes,<br/>
 and I will explore geek culture until my end.<br/>
 </p>
 
+<p>
+  ORCID: <a href="https://orcid.org/0009-0009-6694-2782">0009-0009-6694-2782</a>
+</p>
 
 ### 🛠  Tech Stack
 
