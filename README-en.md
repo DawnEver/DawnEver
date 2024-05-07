@@ -57,4 +57,4 @@ and I will explore geek culture until my end.<br/>
   <img src="https://metrics.lecoq.io/dawnever?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
 </a>
 
-### 🌐 [Click for more](https://bmy.asia/)
+### 🌐 [Click for more](https://www.baomingyang.site)
