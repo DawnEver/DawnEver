@@ -30,7 +30,7 @@ A geek's journey, until my final days.<br/>
 # 🌐Contact
 ## Lord BaoBao
 - Email: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com)
-- Website: [baomingyang.site](https://baomingyang.site)
+- Website: [baomingyang.site/#en](https://baomingyang.site/#en)
 - GitHub: [@DawnEver](https://github.com/DawnEver)
 - ORCID: [Mingyang Bao](https://orcid.org/0009-0009-6694-2782)
 - Google Scholar: [Mingyang Bao](http://scholar.google.com/citations?user=iyoIuGcAAAAJ)
@@ -43,6 +43,6 @@ A geek's journey, until my final days.<br/>
 
 ## Hi-Motor Team Co-founder
 - Email: [hi.motor.cn@gmail.com](mailto:hi.motor.cn@gmail.com)
-- Website: [hi-motor.cn](https://hi-motor.cn)
+- Website: [hi-motor.cn/#en](https://hi-motor.cn/#en)
 - Bilibili: [@Hi-Motor团队](https://space.bilibili.com/3546644771506195)
 - Douyin: [@Hi-Motor团队](https://www.douyin.com/user/MS4wLjABAAAApp17tSawwMhNprsUHlUzIBWUvyt-dDcsuvQa-QRM2SnAPvDyqdCZ3mexRG6HQEJR)
