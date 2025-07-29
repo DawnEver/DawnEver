@@ -36,6 +36,7 @@
 - GitHub: [@DawnEver](https://github.com/DawnEver)
 - ORCID: [Mingyang Bao](https://orcid.org/0009-0009-6694-2782)
 - Google Scholar: [Mingyang Bao](http://scholar.google.com/citations?user=iyoIuGcAAAAJ)
+- Research Gate: [Mingyang Bao](https://www.researchgate.net/profile/Mingyang-Bao-5)
 
 - 微信公众号: [@Lord包包](https://mp.weixin.qq.com/s/xJaaQhVcUAyxJFlFirIWUA)
 - 知乎: [@Lord包包](https://www.zhihu.com/people/ming-ji-zhao-yang)
