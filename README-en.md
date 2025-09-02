@@ -6,7 +6,7 @@ and starting PhD studies at the PEMC Group, University of Nottingham, from Octob
 </p>
 <br/>
 <p>
-Mainly currently focus on motor design&computer science,<br/>
+Mainly currently focus on motor design&computer technology,<br/>
 while my interests are very diverse：<br/>
 </p>
 <br/>
@@ -29,7 +29,7 @@ A geek's journey, until my final days.<br/>
 
 # 🌐Contact
 ## Lord BaoBao
-- Email: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com)
+- Email: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com) | [Mingyang.Bao@nottingham.ac.uk](Mingyang.Bao@nottingham.ac.uk)
 
 - Website: [baomingyang.site/#en](https://baomingyang.site/#en)
 - GitHub: [@DawnEver](https://github.com/DawnEver)

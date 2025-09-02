@@ -8,7 +8,7 @@
 </p>
 <br/>
 <p>
-目前主要的学习方向是 电机设计+计算机科学<br/>
+目前主要的学习方向是 电机设计+计算机<br/>
 然而兴趣广泛到可以用滥情来形容：<br/>
 </p>
 <br/>
@@ -30,7 +30,7 @@
 
 # 🌐联系我
 ## Lord包包
-- 邮箱: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com)
+- 邮箱: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com) | [Mingyang.Bao@nottingham.ac.uk](Mingyang.Bao@nottingham.ac.uk)
 
 - 网站: [baomingyang.site](https://baomingyang.site)
 - GitHub: [@DawnEver](https://github.com/DawnEver)
