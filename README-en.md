@@ -1,6 +1,7 @@
 # I am
 <p>
 An electrical engineer skilled in both software and hardware,<br/>
+cofounder of Hi-Motor Team,<br/>
 graduated with a bachelor's degree from the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology (HUST),<br/>
 and starting PhD studies at the PEMC Group, University of Nottingham, from October 2025.<br/>
 </p>
