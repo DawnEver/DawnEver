@@ -45,6 +45,7 @@ A geek's journey, until my final days.<br/>
 - YouTube: [@Lord BaoBao](https://youtube.com/@LordBaoBao)
 - Douyin: [@Lord包包](https://www.douyin.com/user/MS4wLjABAAAAPVIYe8gbGX_Qshka5jA0JnCjL2bvd0sr57C1a1d8oPY)
 
+- X/Twitter [@LoadBaoBao](https://x.com/LoadBaoBao)
 ## Hi-Motor Team Co-founder
 - Email: [hi.motor.cn@gmail.com](mailto:hi.motor.cn@gmail.com)
 - Website: [hi-motor.cn/#en](https://hi-motor.cn/#en)

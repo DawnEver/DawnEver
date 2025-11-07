@@ -47,6 +47,7 @@ Hi-Motor 团队联合创始人<br/>
 - YouTube: [@LordBaoBao](https://youtube.com/@LordBaoBao)
 - 抖音: [@Lord包包](https://www.douyin.com/user/MS4wLjABAAAAPVIYe8gbGX_Qshka5jA0JnCjL2bvd0sr57C1a1d8oPY)
 
+- X/Twitter [@LoadBaoBao](https://x.com/LoadBaoBao)
 
 ## Hi-Motor 团队联合创始人
 - 邮箱: [hi.motor.cn@gmail.com](mailto:hi.motor.cn@gmail.com)
