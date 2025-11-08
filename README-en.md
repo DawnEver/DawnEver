@@ -32,7 +32,7 @@ A geek's journey, until my final days.<br/>
 ## Lord BaoBao
 - Email: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com) | [Mingyang.Bao@nottingham.ac.uk](Mingyang.Bao@nottingham.ac.uk)
 
-- Website: [baomingyang.site/#en](https://baomingyang.site/#en)
+- Website: [baomingyang.site/#en](https://baomingyang.site/en)
 - GitHub: [@DawnEver](https://github.com/DawnEver)
 - ORCID: [Mingyang Bao](https://orcid.org/0009-0009-6694-2782)
 - Google Scholar: [Mingyang Bao](http://scholar.google.com/citations?user=iyoIuGcAAAAJ)
