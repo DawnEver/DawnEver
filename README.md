@@ -33,7 +33,7 @@ Hi-Motor 团队联合创始人<br/>
 ## Lord包包
 - 邮箱: [mingyangbob@gmail.com](mailto:mingyangbob@gmail.com) | [Mingyang.Bao@nottingham.ac.uk](Mingyang.Bao@nottingham.ac.uk)
 
-- 网站: [baomingyang.site](https://baomingyang.site)
+- 网站: [mingyangbao.site](https://www.mingyangbao.site)
 - GitHub: [@DawnEver](https://github.com/DawnEver)
 - ORCID: [Mingyang Bao](https://orcid.org/0009-0009-6694-2782)
 - Google Scholar: [Mingyang Bao](http://scholar.google.com/citations?user=iyoIuGcAAAAJ)
